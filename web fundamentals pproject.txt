@@ -1,0 +1,10 @@
+* The Web is the only way to access information through the Internet.
+ It’s a system of Internet servers that support specially formatted documents.
+
+* Web developer jobs are typically skill-based which means if you have the skills, you can do the job.
+ In doing so, it’s important to note there are two categories of web developer jobs or skills:
+                            - front-end development ( HTML CSS JavaScript ) 
+                            - back-end development  ( HTML CSS JavaScript / NodeJS Ruby / Ruby on Rails )
+
+*Web development gives you the opportunity to express yourself creatively on the internet. 
+If you have an idea you would like to try as you discover your web dev skills, try it out.
